@@ -1,0 +1,14 @@
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\bin\Debug\net8.0\StreamingApp.exe
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\bin\Debug\net8.0\StreamingApp.deps.json
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\bin\Debug\net8.0\StreamingApp.runtimeconfig.json
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\bin\Debug\net8.0\StreamingApp.dll
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\bin\Debug\net8.0\StreamingApp.pdb
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.AssemblyInfoInputs.cache
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.AssemblyInfo.cs
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.csproj.CoreCompileInputs.cache
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.dll
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\refint\StreamingApp.dll
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.pdb
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\StreamingApp.genruntimeconfig.cache
+C:\Users\Majer.Marton\Desktop\StreamingApp\StreamingApp\StreamingApp\obj\Debug\net8.0\ref\StreamingApp.dll
